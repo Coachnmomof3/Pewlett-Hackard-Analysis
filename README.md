@@ -7,15 +7,16 @@ The purpose of this analysis is to provide an overview of additional information
 
 ### Major points
 - Retiring
- - Individuals retiring from the Senior Engineer title had the highest amount at 29,415.
- - The Manager title had the least amount of retireing individuals coming in at a woping count of 2.
+  - Individuals retiring from the Senior Engineer title had the highest amount at 29,415.
+  - The Manager title had the least amount of retireing individuals coming in at a woping count of 2.
 
 ![retiring_titles](https://github.com/Coachnmomof3/Pewlett-Hackard-Analysis/blob/master/retiring_titles.png)
 
+
 - Mentorship
- - 1,549 individuals are eligible for the mentorship program.
- - There are 7 titles that can benifit from the mentoring program.
- 
+  - 1,549 individuals are eligible for the mentorship program.
+  - There are 7 titles that can benifit from the mentoring program.
+
 ![mentorship_eligibility](https://github.com/Coachnmomof3/Pewlett-Hackard-Analysis/blob/master/mentorship_eligibility.png)
 
 ## Summary: 

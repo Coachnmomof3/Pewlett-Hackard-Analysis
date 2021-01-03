@@ -6,12 +6,12 @@ The purpose of this analysis is to provide an overview of additional information
 ## Results:
 
 ### Major points
-- ![]()
-- There are 7 titles that can benifit from the mentoring program.
-- Individuals retiring from the Senior Engineer title had the highest amount at 29,415.
-- The Manager title had the least amount of retireing individuals coming in at a woping count of 2.
-- ![]()
- - - 1,549 individuals are eligible for the mentorship program.
+- ![retiring_titles](https://github.com/Coachnmomof3/Pewlett-Hackard-Analysis/blob/master/retiring_titles.png)
+  - Individuals retiring from the Senior Engineer title had the highest amount at 29,415.
+  - The Manager title had the least amount of retireing individuals coming in at a woping count of 2.
+- ![mentorship_eligibility](https://github.com/Coachnmomof3/Pewlett-Hackard-Analysis/blob/master/mentorship_eligibility.png)
+  - 1,549 individuals are eligible for the mentorship program.
+  - There are 7 titles that can benifit from the mentoring program.
 
 ## Summary: 
 As the "silver tsunami" begins to make an impact 90,398 roles will need to be filled within the company. There are 1,549 qualified employees who are retirement-ready in the departments to mentor the next generation of Pewlett Hackard employees. Looking at the numbers in some departments yes it is enough but in other departments it may not be depending on the number of roles needed in which department.
